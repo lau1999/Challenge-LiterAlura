@@ -38,8 +38,6 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas y 
    
 4. **Ejecuta la Aplicación:** Abre el proyecto en tu IDE de Java preferido y ejecuta la aplicación. Asegúrate de tener acceso a Internet para poder utilizar todas las funciones de Literalura.
 
-### Documentación Adicional
-
 ## Documentación Adicional
 - **Documentación de Java 17:** Para obtener más información sobre Java 17 y su instalación, consulta la [documentación oficial de Java](https://docs.oracle.com/en/java/javase/17/).
 - **Documentación de PostgreSQL:** Encuentra guías detalladas sobre cómo instalar y configurar PostgreSQL en la [documentación oficial de PostgreSQL](https://www.postgresql.org/docs/).
