@@ -32,9 +32,9 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas y 
    ```bash
    git clone https://github.com/tu_usuario/Literalura.git
 2. **Configura las Variables de Entorno: Crea un archivo .env en el directorio raíz del proyecto y define las siguientes variables de entorno:
-   DB_URL=jdbc:postgresql://localhost:5432/nombre_basedatos
-   DB_USER=usuario
-   DB_PASSWORD=contraseña
+   - DB_URL=jdbc:postgresql://localhost:5432/nombre_basedatos
+   - DB_USER=usuario
+   - DB_PASSWORD=contraseña
    
 4. **jecuta la Aplicación: Abre el proyecto en tu IDE de Java preferido y ejecuta la aplicación. Asegúrate de tener acceso a Internet para poder utilizar todas las funciones de Literalura.
 
