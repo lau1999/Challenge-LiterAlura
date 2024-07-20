@@ -44,6 +44,7 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas y 
 - **Documentación de PostgreSQL:** Encuentra guías detalladas sobre cómo instalar y configurar PostgreSQL en la [documentación oficial de PostgreSQL]
 (https://www.postgresql.org/docs/).
 
-(https://github.com/user-attachments/assets/7db4192c-fded-4ba4-bcad-653541bb52d8)  
+
 
 ![badge literalura](https://github.com/lau1999/Challenge-LiterAlura/assets/135270242/0ad4582a-c0ca-487f-a6f6-3a8244be38fc)
+![literatura](https://github.com/user-attachments/assets/065f8724-7aac-4515-9a79-e91e3ab6434b)
